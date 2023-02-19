@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\others\\DILifeTimeDemo\\DILifeTimeDemo\\DILifeTimeDemo.csproj": {}
+    "E:\\DotNet_6\\DotNetSixDemos\\DILifeTimeDemo\\DILifeTimeDemo\\DILifeTimeDemo.csproj": {}
   },
   "projects": {
-    "E:\\others\\DILifeTimeDemo\\DILifeTimeDemo\\DILifeTimeDemo.csproj": {
+    "E:\\DotNet_6\\DotNetSixDemos\\DILifeTimeDemo\\DILifeTimeDemo\\DILifeTimeDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\others\\DILifeTimeDemo\\DILifeTimeDemo\\DILifeTimeDemo.csproj",
+        "projectUniqueName": "E:\\DotNet_6\\DotNetSixDemos\\DILifeTimeDemo\\DILifeTimeDemo\\DILifeTimeDemo.csproj",
         "projectName": "DILifeTimeDemo",
-        "projectPath": "E:\\others\\DILifeTimeDemo\\DILifeTimeDemo\\DILifeTimeDemo.csproj",
+        "projectPath": "E:\\DotNet_6\\DotNetSixDemos\\DILifeTimeDemo\\DILifeTimeDemo\\DILifeTimeDemo.csproj",
         "packagesPath": "C:\\Users\\mashi\\.nuget\\packages\\",
-        "outputPath": "E:\\others\\DILifeTimeDemo\\DILifeTimeDemo\\obj\\",
+        "outputPath": "E:\\DotNet_6\\DotNetSixDemos\\DILifeTimeDemo\\DILifeTimeDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mashi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -64,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
